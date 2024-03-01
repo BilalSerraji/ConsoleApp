@@ -1,0 +1,116 @@
+[
+    {
+      "id": 1,
+      "name": "Ash",
+      "description": "Ash is a fast and versatile Attacker, equipped with a powerful grenade launcher that can breach almost any surface.",
+      "age": 32,
+      "active": false,
+      "birthdate": "1992-04-01",
+      "profileImageUrl": "https://raw.githubusercontent.com/BilalSerraji/ConsoleApp/main/r6s-operator-ash-elite.webp",
+      "status": "active",
+      "hobbies": ["Rock climbing", "Shooting"],
+      "otherOperator": {
+        "id": 101,
+        "role": "Attacker",
+        "primaryWeapon": "R4-C",
+        "secondaryWeapon": "5.7 USG",
+        "gadget": "Breach charge",
+        "bio": "Ash hails from Israel and serves as a demolitions expert for Team Rainbow."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Doc",
+      "description": "Doc is a formidable Defender, capable of reviving teammates from a distance with his Stim Pistol.",
+      "age": 35,
+      "active": true,
+      "birthdate": "1989-11-12",
+      "profileImageUrl": "https://raw.githubusercontent.com/BilalSerraji/ConsoleApp/main/Doc.webp",
+      "status": "active",
+      "hobbies": ["Medicine", "Scuba diving"],
+      "otherOperator": {
+        "id": 102,
+        "role": "Defender",
+        "primaryWeapon": "MP5",
+        "secondaryWeapon": "P9",
+        "gadget": "Deployable shield",
+        "bio": "Doc, whose real name is Gustave Kateb, hails from France and previously worked as a medic in the French Army."
+      }
+    },
+    {
+      "id": 3,
+      "name": "Pulse",
+      "description": "Pulse is a keen-eyed Defender, equipped with a cardiac sensor that can detect heartbeats through walls.",
+      "age": 28,
+      "active": true,
+      "birthdate": "1996-09-03",
+      "profileImageUrl": "https://raw.githubusercontent.com/BilalSerraji/ConsoleApp/main/Pulse.webp",
+      "status": "active",
+      "hobbies": ["Surfing", "Playing guitar"],
+      "otherOperator": {
+        "id": 103,
+        "role": "Defender",
+        "primaryWeapon": "UMP45",
+        "secondaryWeapon": "M45 MEUSOC",
+        "gadget": "Nitro cell",
+        "bio": "Pulse, also known as Jack Estrada, is a former SWAT officer from the United States."
+      }
+    },
+    {
+      "id": 4,
+      "name": "Tachanka",
+      "description": "Tachanka is a stalwart Defender, wielding a mounted RP-46 Degtyaryov machine gun.",
+      "age": 45,
+      "active": true,
+      "birthdate": "1979-06-12",
+      "profileImageUrl": "https://raw.githubusercontent.com/BilalSerraji/ConsoleApp/main/Tachanka.webp",
+      "status": "active",
+      "hobbies": ["Chess", "Horseback riding"],
+      "otherOperator": {
+        "id": 104,
+        "role": "Defender",
+        "primaryWeapon": "SASG-12",
+        "secondaryWeapon": "GSH-18",
+        "gadget": "Barbed wire",
+        "bio": "Tachanka, whose real name is Alexsandr Senaviev, is a former Spetsnaz operative from Russia."
+      }
+    },
+    {
+      "id": 5,
+      "name": "Twitch",
+      "description": "Twitch is a resourceful Attacker, utilizing a shock drone to disable enemy gadgets from a distance.",
+      "age": 29,
+      "active": false,
+      "birthdate": "1993-12-24",
+      "profileImageUrl": "https://raw.githubusercontent.com/BilalSerraji/ConsoleApp/main/Twitch.webp",
+      "status": "active",
+      "hobbies": ["Gaming", "DIY electronics"],
+      "otherOperator": {
+        "id": 105,
+        "role": "Attacker",
+        "primaryWeapon": "F2",
+        "secondaryWeapon": "P9",
+        "gadget": "Claymore",
+        "bio": "Twitch, whose real name is Emmanuelle Pichon, is a former GIGN operator from France."
+      }
+    },
+    {
+      "id": 6,
+      "name": "Thermite",
+      "description": "Thermite is an essential Attacker, equipped with exothermic charges capable of breaching reinforced walls.",
+      "age": 34,
+      "active": false,
+      "birthdate": "1990-08-19",
+      "profileImageUrl": "https://raw.githubusercontent.com/BilalSerraji/ConsoleApp/main/Thermite.webp",
+      "status": "active",
+      "hobbies": ["Camping", "Mechanical engineering"],
+      "otherOperator": {
+        "id": 106,
+        "role": "Attacker",
+        "primaryWeapon": "556xi",
+        "secondaryWeapon": "M45 MEUSOC",
+        "gadget": "Smoke grenade",
+        "bio": "Thermite, also known as Jordan Trace, is a former FBI SWAT officer from the United States."
+      }
+    }
+  ]
